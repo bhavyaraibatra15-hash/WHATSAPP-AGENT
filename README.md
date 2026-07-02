@@ -94,7 +94,7 @@ README.md
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/whatsapp-ai-assistant-n8n.git
+git clone https://github.com/bhavyaraibatra15-hash/whatsapp-ai-assistant-n8n.git
 ```
 
 Import the workflow into n8n.
